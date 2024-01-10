@@ -113,7 +113,7 @@ https://www.sheppardsoftware.com/math/numbers/ordering-balloon-pop/
 קישור : https://sheppardsoftware.com/mathgames/earlymath/BalloonCount10.htm
 
 
-![My Picture]([https://i.ibb.co/HrhYTGX/ORDERBALLON.jpg](https://i.ibb.co/7gFwRW4/POPBALLON.jpg))
+![My Picture](https://i.ibb.co/7gFwRW4/POPBALLON.jpg)
 
 
 * המשחק שלי יותר מקורי ויותר שונה כיוון שיש בו :
