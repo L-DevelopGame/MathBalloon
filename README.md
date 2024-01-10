@@ -104,11 +104,16 @@
 מצאתי את המשחק BALLOON POP ORDERING שתפקידו הוא לפוצץ בלונים לפי סדר המספרים מקטן לגדול \
 קישור : \
 https://www.sheppardsoftware.com/math/numbers/ordering-balloon-pop/
+![My Picture](https://i.ibb.co/HrhYTGX/ORDERBALLON.jpg)
 
 
 מצאתי גם משחק :practice counting balloons from 1 to 10. \
-שבו אתה מפוצץ בלונים מסדר המספרים 1 ל10, \
-![My Picture](https://i.ibb.co/HrhYTGX/ORDERBALLON.jpg)
+שבו אתה מסדר בלונים מסדר המספרים 1 ל10, \
+
+קישור : https://sheppardsoftware.com/mathgames/earlymath/BalloonCount10.htm
+
+
+![My Picture]([https://i.ibb.co/HrhYTGX/ORDERBALLON.jpg](https://i.ibb.co/7gFwRW4/POPBALLON.jpg))
 
 
 * המשחק שלי יותר מקורי ויותר שונה כיוון שיש בו :
