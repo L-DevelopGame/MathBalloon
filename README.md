@@ -100,14 +100,14 @@
 
 ## סקר שוק
 
-השתמשתי בביטויי-חיפוש Ballon,Math,Pop,Catch
-מצאתי את המשחק BALLOON POP ORDERING שתפקידו הוא לפוצץ בלונים לפי סדר המספרים מקטן לגדול
-קישור :
+השתמשתי בביטויי-חיפוש Ballon,Math,Pop,Catch \
+מצאתי את המשחק BALLOON POP ORDERING שתפקידו הוא לפוצץ בלונים לפי סדר המספרים מקטן לגדול \
+קישור : \
 https://www.sheppardsoftware.com/math/numbers/ordering-balloon-pop/
 
 
-מצאתי גם משחק :practice counting balloons from 1 to 10.
-שבו אתה מפוצץ בלונים מסדר המספרים 1 ל10,
+מצאתי גם משחק :practice counting balloons from 1 to 10. \
+שבו אתה מפוצץ בלונים מסדר המספרים 1 ל10, \
 ![My Picture](https://i.ibb.co/HrhYTGX/ORDERBALLON.jpg)
 
 
